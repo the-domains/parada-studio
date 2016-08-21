@@ -12,6 +12,7 @@ color:
     - '#253237'
 layout_spectrum: 0.3845318316016346
 name: Parada Studio
+style: taylor
 navigation:
   - name: Our Website
     url: PARADASTUDIO.COM
